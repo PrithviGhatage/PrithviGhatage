@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I’m Prithvirajsinh
 
-<!--
-**PrithviGhatage/PrithviGhatage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year AI Engineering student based in India, focused on building LLM-based applications and deployable AI systems.
 
-Here are some ideas to get you started:
+I work on end-to-end AI engineering—from data preparation and prompt design to API integration and application deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🧠 What I Work On
+
+LLM-powered applications
+
+Retrieval-augmented generation (RAG)
+
+Agentic AI workflows and orchestration
+
+AI system design and integration
+
+
+
+
+🛠 Tools & Tech
+
+Python | NumPy | Pandas
+OpenAI / Claude APIs | LangChain | LlamaIndex
+SQL | Flask | Streamlit | Docker | Git
+
+
+
+📈 Currently Learning
+
+LLM evaluation and fine-tuning
+
+Multi-agent architectures
+
+Production-oriented AI systems
+
+🎯 Open To
+
+AI engineering internships and entry-level roles
+🌍 Open to remote opportunities
