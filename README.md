@@ -14,7 +14,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-📍 Pune, India &nbsp;·&nbsp; 📧 prithviraj.sing11@gmail.com &nbsp;·&nbsp; 🎯 Open to **AI Engineer / Forward-Deployed Engineer** roles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvirajsinh-ghatage-7078a4220/)
+&nbsp;[![Email](https://img.shields.io/badge/Email-prithviraj.sing11@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:prithviraj.sing11@gmail.com)
+
+📍 Pune, India &nbsp;·&nbsp; 🎯 Open to **AI Engineer / Forward-Deployed Engineer** roles
 
 </div>
 
